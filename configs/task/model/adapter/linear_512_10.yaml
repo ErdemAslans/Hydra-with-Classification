@@ -1,0 +1,5 @@
+defaults:
+  - linear_adapter_schema
+
+in_features: 512
+out_features: 10

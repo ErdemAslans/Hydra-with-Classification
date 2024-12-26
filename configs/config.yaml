@@ -1,0 +1,5 @@
+defaults:
+  - config_schema
+  - task: cifar10_classification
+  - data_module: cifar10
+  - trainer: gpu

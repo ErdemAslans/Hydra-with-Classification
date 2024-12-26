@@ -1,0 +1,5 @@
+defaults:
+  - cifar10_classification_training_task_schema
+  - model: cifar10_model
+  - optimizer: sgd
+  - loss_function: cross_entropy_loss_function_schema

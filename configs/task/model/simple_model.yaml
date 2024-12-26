@@ -1,0 +1,6 @@
+
+defaults:
+  - simple_model_schema
+  - backbone: resnet18_schema
+  - adapter: linear_512_10
+  - head: identity_head_schema
