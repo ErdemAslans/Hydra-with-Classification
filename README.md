@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project demonstrates how to build a scalable and maintainable machine learning pipeline for MNIST classification using PyTorch Lightning and Hydra. By integrating Hydra for configuration management, the project ensures that experiments are reproducible and easily configurable.
+This project demonstrates how to build a scalable and maintainable machine learning pipeline by integrating Hydra for configuration management, the project ensures that experiments are reproducible and easily configurable.
 
 ## Features
 
