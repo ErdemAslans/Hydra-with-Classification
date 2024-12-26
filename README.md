@@ -3,14 +3,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Usage](#usage)
-  - [Running the Training Script](#running-the-training-script)
-  - [Overriding Configuration Parameters](#overriding-configuration-parameters)
-- [Hydra Integration](#hydra-integration)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
